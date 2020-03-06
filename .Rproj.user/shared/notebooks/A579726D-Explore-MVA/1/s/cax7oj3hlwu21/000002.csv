@@ -1,0 +1,27 @@
+"0","# read shape file for"
+"0","kcmo_mva_sf <- st_read(""Data/2016 Market Value Analysis (MVA)/geo_export_8a3f2884-9896-4c60-ba20-c985177b689a.shp"")"
+"1","Reading layer `"
+"1","geo_export_8a3f2884-9896-4c60-ba20-c985177b689a"
+"1","' from data source `"
+"1","/Users/Sara/Documents/GitHub/RU-BIA6313-FinalProject/Data/2016 Market Value Analysis (MVA)/geo_export_8a3f2884-9896-4c60-ba20-c985177b689a.shp"
+"1","' using driver `"
+"1","ESRI Shapefile"
+"1","'"
+"1","
+"
+"1","Simple feature collection with 441 features and 26 fields"
+"1","
+"
+"1","geometry type:  POLYGON
+"
+"1","dimension:      XY
+"
+"1","bbox:           "
+"1","xmin: -94.78056 ymin: 38.82762 xmax: -94.37249 ymax: 39.40155"
+"1","
+"
+"1","epsg (SRID):    4326
+"
+"1","proj4string:    +proj=longlat +ellps=WGS84 +no_defs
+"
+"0","# CRS 4326 - unprojected (geo with lon/lat)"
